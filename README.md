@@ -1,2 +1,0 @@
-# holokit_headkit
-HeadKit
